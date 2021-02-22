@@ -1,0 +1,13 @@
+Disk2vhd-sajnos túl sok téárhelyet igényelt,így nem tudtam futtatni
+TCPView-hálózatokat tudjuk vele megnézni
+AutoRuns-automatikusan a géppel együtt induló alkalmazásokat kezeli
+LogonSession-nem tudtam futattni sem ezt sem a Security Utilities-ből egyiket se 
+RAMMap-memória használatot elemzi
+a,DiskView-el tudja tárolni a létrehozott elemeket
+b,AD Explorer-adatbázis lekérdezés
+c,Autoruns-automatikusan a géppel együtt induló alkalmazásokat kezeli
+d,AccesEnum-ez se működött
+e,LoadOrder-autzomatizált betöltési sorrendet hoz létre
+AIDA64-mindenféle elemzést kiir a szamitogepünkről
+CPU_Z-azonosítja az alkatrészeket a száítógépben
+GPU_Z-megmutatja, hogy hamis-e a VGA
